@@ -1,6 +1,4 @@
-To add documentation to your project, you can create a `README.md` file at the root of your repository. This file will be the first thing users see when they visit your repository on GitHub. Here is a basic template you can use for your `README.md`:
 
-```markdown
 # Personal Portfolio
 
 Welcome to my personal portfolio repository. This project showcases my work and skills in web development.
